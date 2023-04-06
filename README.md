@@ -9,4 +9,4 @@ Airbnb listings data was derived from Airbnb.com during the month of September 2
 ## Exploratory Data Analysis using Tableau
 
 ## Text Preprocessing
-As part of our analysis, I was assigned to perform text analysis to determine the correlation of the name, listing descriptions, host about, neighborhood overview, and listing reviews to the price. In this notebook, you can see how I pre-processed these text data for the analysis. This includes counting tokens, sentences, and removing stopwords etc.
+As part of our analysis, I was assigned to perform text analysis to determine the correlation of the name, listing descriptions, host about, neighborhood overview, and listing reviews to the price. In [this notebook](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/Text_Preprocessing.ipynb), you can see how I pre-processed these text data for the analysis. This includes counting tokens, sentences, removing stopwords, etc.
