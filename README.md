@@ -1,6 +1,7 @@
 # Airbnb-Machine-Learning
-About the dataset:
-Data was derived from Airbnb.com consisting 
+## About the dataset:  
+
+Airbnb listings data was derived from Airbnb.com during the month of Sepetember 2022 in Los Angeles Metropolitan Area initially consisting 45,815 records and 74 features.  
 ## Exploratory Data Analysis using Tableau
 
 ## Text Preprocessing
