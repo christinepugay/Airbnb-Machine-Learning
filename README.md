@@ -1,5 +1,4 @@
 # Airbnb Price Prediction Model using Machine Learning
-As an Airbnb host, are you pricing your listings too high? or maybe too low? Having too high of a price maybe steering customers away from your listing and having too low of a price is probably resulting your business to lose profit.
 
 In this project, we are analyzing both quantitative (such as number of beds, number of baths, etc.) and qualitative data (such as listing name, listing reviews, listing description, and host about) from Airbnb listings in Los Angeles Metropolitan Area to help optimize and build a price prediction machine learning model for Airbnb hosts. 
 
