@@ -162,27 +162,46 @@ Below are the top 20 features that has a positive correlation to the price. This
 Feature - Correlation coefficient
 
 price	1
-bedrooms	0.632528966
-accommodates	0.587689181
-bathroom_num	0.583462579
-beds	0.514228301
-private_bath	0.241653101
-Has_license or Have	0.188483463
-availability_30	0.159515358
-availability_60	0.149649581
-tv	0.147869101
-availability_90	0.137882717
-availability_365	0.109337646
-fire_extinguisher	0.104875183
-kitchen	0.103171735
-coffee_maker	0.101662928
-review_scores_location	0.099912226
-washer	0.091940951
-free_parking	0.085776172
-first_aid_kit	0.080739869
-cooking_basics	0.079594203
-carbon_monoxide_alarm	0.077422463
 
+bedrooms	0.632528966
+
+accommodates	0.587689181
+
+bathroom_num	0.583462579
+
+beds	0.514228301
+
+private_bath	0.241653101
+
+Has_license or Have	0.188483463
+
+availability_30	0.159515358
+
+availability_60	0.149649581
+
+tv	0.147869101
+
+availability_90	0.137882717
+
+availability_365	0.109337646
+
+fire_extinguisher	0.104875183
+
+kitchen	0.103171735
+
+coffee_maker	0.101662928
+
+review_scores_location	0.099912226
+
+washer	0.091940951
+
+free_parking	0.085776172
+
+first_aid_kit	0.080739869
+
+cooking_basics	0.079594203
+
+carbon_monoxide_alarm	0.077422463
 
 ### 18 Features with Negative Correlation to Airbnb Prices in Los Angeles
 
