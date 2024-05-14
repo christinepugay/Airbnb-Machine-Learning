@@ -149,7 +149,7 @@ Feature Selection: Pearson Correlation
 
 Considering this result, we can conclude that there isn't any significant relationship between the counts of POS (nouns, adjectives, and verb count), word, and sentences in the text components (name, description, neighborhood overview, and host about) of an Airbnb listing to its price.
 
-## Top Features for Machine Learning Models using Pearson Correlation
+## Task: Identify the Top Features for Machine Learning Models using Pearson Correlation
 
 To assist my team with identifying the overall top correlated features for their machine learning models, I also used pearson correlation to identify the top features that correlates with the price. Below is the visual representation of the results:
 
