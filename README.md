@@ -149,15 +149,78 @@ Feature Selection: Pearson Correlation
 
 Considering this result, we can conclude that there isn't any significant relationship between the counts of POS (nouns, adjectives, and verb count), word, and sentences in the text components (name, description, neighborhood overview, and host about) of an Airbnb listing to its price.
 
-# Top Features for Machine Learning Models using Pearson Correlation
+## Top Features for Machine Learning Models using Pearson Correlation
 
-To assist my team with identifying the overall top correlated features for their machine learning models, I also used pearson correlation to identify the top features that correlates with the price. Below is the visual represation of the results:
+To assist my team with identifying the overall top correlated features for their machine learning models, I also used pearson correlation to identify the top features that correlates with the price. Below is the visual representation of the results:
 
 ![](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/correlation_heatmap.png)
 
+### Top 20 Features with Positive Correlation to Airbnb Prices in Los Angeles
+
+Below are the top 20 features that has a positive correlation to the price. This means that the higher the correlation is, the more it contributes to the price positively.
+
+Feature - Correlation coefficient
+
+price	1
+bedrooms	0.632528966
+accommodates	0.587689181
+bathroom_num	0.583462579
+beds	0.514228301
+private_bath	0.241653101
+Has_license or Have	0.188483463
+availability_30	0.159515358
+availability_60	0.149649581
+tv	0.147869101
+availability_90	0.137882717
+availability_365	0.109337646
+fire_extinguisher	0.104875183
+kitchen	0.103171735
+coffee_maker	0.101662928
+review_scores_location	0.099912226
+washer	0.091940951
+free_parking	0.085776172
+first_aid_kit	0.080739869
+cooking_basics	0.079594203
+carbon_monoxide_alarm	0.077422463
 
 
+### 18 Features with Negative Correlation to Airbnb Prices in Los Angeles
 
+zip_code  -0.004033291
+
+host_is_superhost   -0.004163236
+
+shampoo   -0.00587161
+
+host_has_profile_pic   -0.012193546
+
+maximum_nights   -0.017315548
+
+hot_water  -0.018762386
+
+calculated_host_listings_count  -0.01966584
+
+reviews_per_month  -0.019901771
+
+heating  -0.020803527
+
+hangers  -0.021566939
+
+number_of_reviews_l30d  -0.026297123
+
+number_of_reviews_ltm   -0.033470779
+
+essentials   -0.047475495
+
+minimum_nights   -0.058089595
+
+longitude   -0.060507095
+
+number_of_reviews   -0.068988993
+
+latitude    -0.114262817
+
+None_license   -0.199909618
 
 
 
