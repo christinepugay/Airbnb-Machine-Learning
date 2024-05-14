@@ -86,10 +86,6 @@ adj_count_neighborhood_overview	-0.017217
 
 adj_count_name	-0.039824
 
-Here, I created a heatmap to visualize the top correlated features: 
-
-![](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/correlation_heatmap.png)
-
 **Linear Regression Model**
 
 Linear regression will be using as our model to predict our target variable, price. Linear regression is a simple model that can easily be implemented to our problem. We are also assuming that there is a linear relationship between the predictors (POS, word, and sentence count) and our outcome, price. 
@@ -152,6 +148,12 @@ Feature Selection: Pearson Correlation
       
 
 Considering this result, we can conclude that there isn't any significant relationship between the counts of POS (nouns, adjectives, and verb count), word, and sentences in the text components (name, description, neighborhood overview, and host about) of an Airbnb listing to its price.
+
+# Top Features for Machine Learning Models using Pearson Correlation
+
+To assist my team with identifying the overall top correlated features for their machine learning models, I also used pearson correlation to identify the top features that correlates with the price. Below is the visual represation of the results:
+
+![](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/correlation_heatmap.png)
 
 
 
