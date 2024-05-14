@@ -86,6 +86,10 @@ adj_count_neighborhood_overview	-0.017217
 
 adj_count_name	-0.039824
 
+Here, I created a heatmap to visualize the top correlated features: 
+
+![](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/correlation_heatmap.png)
+
 **Linear Regression Model**
 
 Linear regression will be using as our model to predict our target variable, price. Linear regression is a simple model that can easily be implemented to our problem. We are also assuming that there is a linear relationship between the predictors (POS, word, and sentence count) and our outcome, price. 
