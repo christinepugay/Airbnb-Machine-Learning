@@ -155,11 +155,9 @@ To assist my team with identifying the overall top correlated features for their
 
 ![](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/correlation_heatmap.png)
 
-### Top 20 Features with Positive Correlation to Airbnb Prices in Los Angeles
+### Top 20 Features with Positive Correlation to Airbnb Prices in Los Angeles (Feature - Correlation coefficient)
 
-Below are the top 20 features that has a positive correlation to the price. This means that the higher the correlation is, the more it contributes to the price positively.
-
-Feature - Correlation coefficient
+#### Below are the top 20 features that has a positive correlation to the price. This means that the higher the correlation is, the more it contributes to the price positively.
 
 price	1
 
@@ -203,7 +201,9 @@ cooking_basics	0.079594203
 
 carbon_monoxide_alarm	0.077422463
 
-### 18 Features with Negative Correlation to Airbnb Prices in Los Angeles
+### 18 Features with Negative Correlation to Airbnb Prices in Los Angeles (Feature - Correlation)
+
+#### Here I list the 18 features that negatively affects Airbnb pricing in Los Angeles Area.
 
 zip_code  -0.004033291
 
