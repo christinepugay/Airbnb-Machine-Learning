@@ -157,7 +157,7 @@ To assist my team with identifying the overall top correlated features for their
 
 ### Top 20 Features with Positive Correlation to Airbnb Prices in Los Angeles (Feature - Correlation)
 
-#### Below are the top 20 features that has a positive correlation to the price starting from the most positively correlated to the least positively correlated. This means that the higher the correlation is, the more it contributes to the price positively.
+#### Below are the top 20 features that has a positive correlation to the price starting from the most positively correlated to the least positively correlated. This means that the higher the correlation is, the more it contributes to the price positively. From this result, we can conclude that having more bedrooms, beds, and bathrooms accomodates more guests increases the price of an Airbnb along with having a private baths, licences, open availability in the next 30 and 60 days. Having amenities such as TV, fire-extinguisher, kitchen and coffee makers also increases the price of an Airbnb. 
 
 price	1
 
@@ -203,7 +203,7 @@ carbon_monoxide_alarm	0.077422463
 
 ### 18 Features with Negative Correlation to Airbnb Prices in Los Angeles (Feature - Correlation)
 
-#### Here I list the 18 features that negatively affects Airbnb pricing in Los Angeles Area starting from the most negatively correlated to the least negatively correlated.
+#### Here I list the 18 features that negatively affects Airbnb pricing in Los Angeles Area starting from the most negatively correlated to the least negatively correlated. The zip code (where the Airbnb is located) can have drop the price of an Airbnb property along with whether the host is a superhost and has a profile picture. 
 
 zip_code  -0.004033291
 
