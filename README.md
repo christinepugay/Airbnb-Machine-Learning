@@ -155,7 +155,7 @@ To assist my team with identifying the overall top correlated features for their
 
 ![](https://github.com/christinepugay/Airbnb-Machine-Learning/blob/main/correlation_heatmap.png)
 
-### Top 20 Features with Positive Correlation to Airbnb Prices in Los Angeles (Feature - Correlation coefficient)
+### Top 20 Features with Positive Correlation to Airbnb Prices in Los Angeles (Feature - Correlation)
 
 #### Below are the top 20 features that has a positive correlation to the price starting from the most positively correlated to the least positively correlated. This means that the higher the correlation is, the more it contributes to the price positively.
 
